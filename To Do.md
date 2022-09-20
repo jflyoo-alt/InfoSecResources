@@ -1,6 +1,0 @@
-- [ ] add #persistence to acceptable tags
-- [ ] add #wifi to acceptable tags
-- [ ] add #ThreatIntel to acceptable tags
-- [ ] add #XSS to tags
-- [ ] add #Lab to tags
-- [ ] add #PIV
