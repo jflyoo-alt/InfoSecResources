@@ -9,12 +9,13 @@
 |<a href='https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/'>AMSI Bypass</a>| #Windows #AMSI #ExploitDev |
 |<a href='https://netsecfocus.com/home/lab/2022/07/31/Tjnulls_guide_to_building_a_Home_Lab.html'>Building a Home Lab, TJNull's Guide</a> | #Lab #Reference |
 |<a href='https://howto.thec2matrix.com/'>C2 Matrix</a> | #C2 |
-|<a href='https://docs.microsoft.com/en-us/windows/win32/com/the-com-elevation-moniker'>COM Elevation Moniker (maybe find out why this was bookmarked?) </a> | #ExploitDev #Windows #COM #UAC 
+|<a href='https://docs.microsoft.com/en-us/windows/win32/com/the-com-elevation-moniker'>COM Elevation Moniker (maybe find out why this was bookmarked?) </a> | #ExploitDev #Windows #COM #UAC |
+|<a href='https://git.culbertreport.com'>Culbert Report</a> | #RedTeam #Windows #ExploitDev #Reference |
 |<a href='https://ec.haxx.se/'>cURL</a>| #LinuxCLI #Reference |
 |<a href='https://www.hackingarticles.in/indirect-command-execution-defense-evasion-t1202/'>Defense Evasion</a> | #Windows #ExploitDev |
 |<a href='https://samsclass.info/127/ED_2020.shtml'>Exploit Development, Intro</a> | #ExploitDev #Reference |
 |<a href='https://wiki.owasp.org/index.php/OWASP_favicon_database'>Favicon database</a> | #www #Reference |
-|<a href='https://www.hackers-arise.com/post/open-source-intelligence-osint-finding-breached-email-addresses-passwords-and-other-credentials'>Finding Breached Emails and Creds</a>| #OSINT #|
+|<a href='https://www.hackers-arise.com/post/open-source-intelligence-osint-finding-breached-email-addresses-passwords-and-other-credentials'>Finding Breached Emails and Creds</a>| #OSINT #Password |
 |<a href='grep.app'>Grep App</a> | #Reference |
 |<a href='https://viz.geynoise.io'>Greynoise.io</a> | #ThreatIntel |
 |<a href='https://book.hacktricks.xyz/'>Hacktricks</a>| #GeneralPentest #Reference |
@@ -48,7 +49,7 @@
 |<a href='https://www.gosecure.net/blog/2022/06/29/did-you-know-your-browser-autofill-credentials-could-be-stolen-via-cross-site-scripting-xss/'>Steal Browser Autofill Credentials</a> | #Password #www #XSS |
 |<a href='https://z4ksec.github.io/posts/masky-release-v0.0.3/'>Steal Domain Creds via ADCS</a>| #AD #ADCS #Tool #Python |
 |<a href='https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#'>OSCP machines, TJNull's</a> | #OSCP #CertStudy #Reference |
-|<a href='https://wiki.bi0s.in/'>Team bi0s</a>| #Reference #RT |
+|<a href='https://wiki.bi0s.in/'>Team bi0s</a>| #Reference #RedTeam |
 |<a href='https://www.fprintf.net/vimCheatSheet.html'>vim</a>| #TextEditor #LinuxCLI #Reference |
 |<a href='https://www.hackers-arise.com/wireless-hacks'>Hackers-Arise: Wifi</a>| #Wifi #Reference |
 |<a href='wigle.net'>Wigle</a> | #Tool #Wifi |
@@ -58,6 +59,7 @@
 |<a href='https://www.trustedsec.com/blog/wmi-providers-for-script-kiddies/'>WMI Providers for Script Kiddies</a> | #Windows #ExploitDev |
 |<a href='https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Core/About/about_FileSystem_Provider?view=powershell-7.2'>Windows: about_FileSystem provider</a>| #Windows #Reference |
 |<a href='https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list'>Windows API</a> | #Windows #ExploitDev #Reference |
+|<a href='https://emptydc.com/2022/06/08/windows-credential-dumping/'>Windows credential  dumping</a> | #Reference #Windows #RedTeam #Password |
 |<a href='https://www.blackhillsinfosec.com/windows-event-logs-for-red-teams/'>Windows Event Logs for Red Teams</a> | #Windows #Reference #PurpleTeam #RedTeam |
 |<a href='https://jasonturley.xyz/blog/windows-exploit-development/'>Windows Exploit Development</a> | #ExploitDev #Windows #Reference |
 |<a href='https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/net-commands-on-operating-systems'>Windows net.exe commands</a> | #Windows #Reference |
