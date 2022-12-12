@@ -7,6 +7,7 @@
 |<a href='https://zer1t0.gitlab.io/posts/attacking_ad/'>Attacking Active Directory</a> | #AD #Reference |
 |<a href='app.binaryedge.io'>App.BinaryEdge</a> |  #OSINT #Reference #ThreatIntel |
 |<a href='https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/'>AMSI Bypass</a>| #Windows #AMSI #ExploitDev |
+|<a href='https://www.gnu.org/software/bash/'>Bash Reference</a> | #Reference #LinuxCLI #Linux #Tool |
 |<a href='https://netsecfocus.com/home/lab/2022/07/31/Tjnulls_guide_to_building_a_Home_Lab.html'>Building a Home Lab, TJNull's Guide</a> | #Lab #Reference |
 |<a href='https://howto.thec2matrix.com/'>C2 Matrix</a> | #C2 |
 |<a href='https://docs.microsoft.com/en-us/windows/win32/com/the-com-elevation-moniker'>COM Elevation Moniker (maybe find out why this was bookmarked?) </a> | #ExploitDev #Windows #COM #UAC |
@@ -26,6 +27,7 @@
 |<a href='https://samsclass.info'>Introduction to Exploit Development</a> | #ExploitDev #Reference |
 |<a href='https://262.ecma-international.org'>JavaScript Language Specification</a> | #JS #Reference |
 |<a href='https://github.com/lkarlslund/ldapnomnom'>LDAP Nom Nom</a> | #AD #Tool #Windows |
+|<a href="https://ldapwiki.com/wiki/LDAP">LDAP Wiki</a> | #Reference #AD |
 |<a href='https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/'>Linux Syscall table for x86/x64</a> | #Shellcode #Linux #Reference |
 |<a href='https://www.offensive-security.com/offsec/macro-weaponization/'>Macro weaponization</a> | #Windows #Macro #ExploitDev |
 |<a href='https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html'>NTLM Relay</a> | #Windows #NTLM #AD |
