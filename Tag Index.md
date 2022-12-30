@@ -5,6 +5,7 @@ COM (Component Object Model)
 ExploitDev
 GeneralPentest
 JS (JavaScript)
+Kerberos
 Lab
 Linux
 LinuxCLI

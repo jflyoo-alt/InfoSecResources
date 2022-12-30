@@ -15,4 +15,4 @@ Tags should be limited to those presented in the [[Tag Index]]. This is prevent 
 
 The [[Tag Index]] itself also provides a cross-referencing capability to aid in starting a search. That is, if a specific topic needs to be searched, the [[Tag Index]] provides a place to start to find tags that would be relevant to the topic at hand.
 
-Secondarily, the [[Tag Index]] can also aid the user in finding tags that might be abbreviated for the sake of space, as well as maintain control over tags that **could** be abbreviated, thus creating the searching nightmare of "are all the **AD** tags also tagged as **ActiveDirectory**, what about vice versa?"
+Secondarily, the [[Tag Index]] can also aid the user in finding tags that might be abbreviated for the sake of space, as well as maintain control over tags that **could** be abbreviated, thus creating the searching nightmare of "are all the **AD** tags also tagged as **ActiveDirectory**? What about vice versa?"
