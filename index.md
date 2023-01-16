@@ -1,6 +1,8 @@
 # Bookmarks
 | Link | Tags |
 |-|-|
+|<a href="https://rootsecdev.medium.com/abusing-sebackupprivilege-cd5d1a88f992">Abusing SeBackupPrivilege</a> | #AD #Privilege |
+|<a href="https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth">Alternative Ways to Pass the Hash</a> | #AD #Kerberos |
 |<a href='https://zer1t0.gitlab.io/posts/attacking_ad/'>Attacking Active Directory</a> | #AD #Reference |
 |<a href='https://hideandsec.sh/books/cheatsheets-82c/page/active-directory'>Attacking Active Directory</a> | #AD #Reference|
 |<a href='https://www.semperis.com/blog/new-attack-paths-as-requested-sts/'>Attacking Kerberos using Service Tickets</a> |   #AD #Kerberos #Windows |
@@ -15,6 +17,7 @@
 |<a href='https://ec.haxx.se/'>cURL</a>| #LinuxCLI #Reference |
 |<a href='https://www.hackingarticles.in/indirect-command-execution-defense-evasion-t1202/'>Defense Evasion</a> | #Windows #ExploitDev |
 |<a href='https://dnsdumpster.com'>DNSDumpster</a> | #OSINT |
+|<a href="https://strontic.github.io/xcyclopedia/intro.html">Encyclopedia of Executables</a>| #Reference #Windows #Linux |
 |<a href='https://samsclass.info/127/ED_2020.shtml'>Exploit Development, Intro</a> | #ExploitDev #Reference |
 |<a href='https://wiki.owasp.org/index.php/OWASP_favicon_database'>Favicon database</a> | #www #Reference |
 |<a href='https://www.hackers-arise.com/post/open-source-intelligence-osint-finding-breached-email-addresses-passwords-and-other-credentials'>Finding Breached Emails and Creds</a>| #OSINT #Password |
