@@ -33,6 +33,7 @@
 |<a href='https://samsclass.info'>Introduction to Exploit Development</a> | #ExploitDev #Reference |
 |<a href='https://262.ecma-international.org'>JavaScript Language Specification</a> | #JS #Reference |
 |<a href="https://ldapwiki.com/wiki/LDAP">LDAP Wiki</a> | #Reference #AD |
+|<a href='https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/'>Linux Privilege Escalation</a> | #Linux #Privilege #GeneralPentest #LinuxCLI|
 |<a href='https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/'>Linux Syscall table for x86/x64</a> | #Shellcode #Linux #Reference |
 |<a href='https://www.offensive-security.com/offsec/macro-weaponization/'>Macro weaponization</a> | #Windows #Macro #ExploitDev |
 |<a href='https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html'>NTLM Relay</a> | #Windows #NTLM #AD |
