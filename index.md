@@ -43,6 +43,7 @@
 |<a href='https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html'>OSCP Preparation Guide, TJNull's</a>| #OSCP #CertStudy |
 |<a href='https://therealunicornsecurity.github.io/OSCP/'>OSCP tips and tricks, therealunicornsecurity</a> | #OSCP #CertStudy |
 |<a href='https://inteltechniques.com/tools/'>OSINT Online Search by IntelTechniques</a> | #OSINT |
+|<a href="https://cheatsheetseries.owasp.org/">OWASP Cheatsheets</a> | #Www #Reference |
 |<a href='https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22'>Pass-the-Challenge</a> | #NTLM #Kerberos #Windows #AD|
 |<a href='https://pinvoke.net/'>P/Invoke</a> | #ExploitDev #Windows #Reference |
 |<a href='https://persistence-info.github.io/'>Persistence Info</a> | #RedTeam #Persistence #Windows |
@@ -108,6 +109,8 @@
 |jthuraisamy|SysWhispers| AD/EDR Evasion via system calls  #ExploitDev #Tool #Windows |
 |skelsec|minikerberos| Kerberos manipulation library in Python #RedTeam #Tool #Kerberos |
 |gtworek|Priv2Admin| Windows Privilege Escalation via Privilege Rights #Windows #ExploitDev #Privilege #PrivEsc |
+|dafthack| DomainPasswordSpray | Domain password spraying tool mentioned in SEC560 (2022), day 2 #Password #AD #RedTeam |
+
 
 https://registry.dcm.mil/harbor/projects
 A MIL repository of docker images, etc. Seems actually to be a mirror of several public repositories.
