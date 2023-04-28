@@ -110,7 +110,8 @@
 |skelsec|minikerberos| Kerberos manipulation library in Python #RedTeam #Tool #Kerberos |
 |gtworek|Priv2Admin| Windows Privilege Escalation via Privilege Rights #Windows #ExploitDev #Privilege #PrivEsc |
 |dafthack| DomainPasswordSpray | Domain password spraying tool mentioned in SEC560 (2022), day 2 #Password #AD #RedTeam |
-
+| optiv | ScareCrow | Exe Obfuscation / encryption #ExploitDev #Windows |
+| infobyte | CVE-2023-21036 | Tool to find PNG files affected by Acropalypse #OSINT |
 
 https://registry.dcm.mil/harbor/projects
 A MIL repository of docker images, etc. Seems actually to be a mirror of several public repositories.
