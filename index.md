@@ -21,6 +21,7 @@
 |<a href='https://samsclass.info/127/ED_2020.shtml'>Exploit Development, Intro</a> | #ExploitDev #Reference |
 |<a href='https://wiki.owasp.org/index.php/OWASP_favicon_database'>Favicon database</a> | #www #Reference |
 |<a href='https://www.hackers-arise.com/post/open-source-intelligence-osint-finding-breached-email-addresses-passwords-and-other-credentials'>Finding Breached Emails and Creds</a>| #OSINT #Password |
+|<a href='https://www.browserling.com/tools/ntlm-hash'>Generate NTLM hash</a> | #Password #Windows |
 |<a href='https://github.com/git-guides'>Git Guides</a> | #Reference |
 |<a href='grep.app'>Grep App</a> | #Reference |
 |<a href='https://viz.geynoise.io'>Greynoise.io</a> | #ThreatIntel |

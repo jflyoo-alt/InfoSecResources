@@ -1,0 +1,491 @@
+<html>
+<h1 id="bookmarks">Bookmarks</h1>
+<style>
+tbody
+	{
+	 font: bold 18px/30px Georgia, sans-serif;
+}
+</style>
+<table>
+<thead>
+<tr>
+<th>Link</th>
+<th>Tags</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://rootsecdev.medium.com/abusing-sebackupprivilege-cd5d1a88f992">Abusing SeBackupPrivilege</a></td>
+<td>#AD #Privilege</td>
+</tr>
+<tr>
+<td><a href="https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth">Alternative Ways to Pass the Hash</a></td>
+<td>#AD #Kerberos</td>
+</tr>
+<tr>
+<td><a href='https://zer1t0.gitlab.io/posts/attacking_ad/'>Attacking Active Directory</a></td>
+<td>#AD #Reference</td>
+</tr>
+<tr>
+<td><a href='https://hideandsec.sh/books/cheatsheets-82c/page/active-directory'>Attacking Active Directory</a></td>
+<td>#AD #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.semperis.com/blog/new-attack-paths-as-requested-sts/'>Attacking Kerberos using Service Tickets</a></td>
+<td>#AD #Kerberos #Windows</td>
+</tr>
+<tr>
+<td><a href='app.binaryedge.io'>App.BinaryEdge</a></td>
+<td>#OSINT #Reference #ThreatIntel</td>
+</tr>
+<tr>
+<td><a href='https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/'>AMSI Bypass</a></td>
+<td>#Windows #AMSI #ExploitDev</td>
+</tr>
+<tr>
+<td><a href='https://www.gnu.org/software/bash/'>Bash Reference</a></td>
+<td>#Reference #LinuxCLI #Linux #Tool</td>
+</tr>
+<tr>
+<td><a href='https://netsecfocus.com/home/lab/2022/07/31/Tjnulls_guide_to_building_a_Home_Lab.html'>Building a Home Lab, TJNull&#39;s Guide</a></td>
+<td>#Lab #Reference</td>
+</tr>
+<tr>
+<td><a href='https://builtwith.com'>BuiltWith</a></td>
+<td>#OSINT</td>
+</tr>
+<tr>
+<td><a href='https://howto.thec2matrix.com/'>C2 Matrix</a></td>
+<td>#C2</td>
+</tr>
+<tr>
+<td><a href='https://docs.microsoft.com/en-us/windows/win32/com/the-com-elevation-moniker'>COM Elevation Moniker (maybe find out why this was bookmarked?) </a></td>
+<td>#ExploitDev #Windows #COM #UAC</td>
+</tr>
+<tr>
+<td><a href='https://git.culbertreport.com'>Culbert Report</a></td>
+<td>#RedTeam #Windows #ExploitDev #Reference</td>
+</tr>
+<tr>
+<td><a href='https://ec.haxx.se/'>cURL</a></td>
+<td>#LinuxCLI #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.hackingarticles.in/indirect-command-execution-defense-evasion-t1202/'>Defense Evasion</a></td>
+<td>#Windows #ExploitDev</td>
+</tr>
+<tr>
+<td><a href='https://dnsdumpster.com'>DNSDumpster</a></td>
+<td>#OSINT</td>
+</tr>
+<tr>
+<td><a href="https://strontic.github.io/xcyclopedia/intro.html">Encyclopedia of Executables</a></td>
+<td>#Reference #Windows #Linux</td>
+</tr>
+<tr>
+<td><a href='https://samsclass.info/127/ED_2020.shtml'>Exploit Development, Intro</a></td>
+<td>#ExploitDev #Reference</td>
+</tr>
+<tr>
+<td><a href='https://wiki.owasp.org/index.php/OWASP_favicon_database'>Favicon database</a></td>
+<td>#www #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.hackers-arise.com/post/open-source-intelligence-osint-finding-breached-email-addresses-passwords-and-other-credentials'>Finding Breached Emails and Creds</a></td>
+<td>#OSINT #Password</td>
+</tr>
+<tr>
+<td><a href='https://github.com/git-guides'>Git Guides</a></td>
+<td>#Reference</td>
+</tr>
+<tr>
+<td><a href='grep.app'>Grep App</a></td>
+<td>#Reference</td>
+</tr>
+<tr>
+<td><a href='https://viz.geynoise.io'>Greynoise.io</a></td>
+<td>#ThreatIntel</td>
+</tr>
+<tr>
+<td><a href='https://book.hacktricks.xyz/'>Hacktricks</a></td>
+<td>#GeneralPentest #Reference</td>
+</tr>
+<tr>
+<td><a href='https://hashcat.net/hashcat/'>Hashcat</a></td>
+<td>#Password #Password/Cracking #Reference</td>
+</tr>
+<tr>
+<td><a href='https://letsautomate.it/article/understanding-http-request-headers/'>HTTP Request Headers</a></td>
+<td>#www #Reference</td>
+</tr>
+<tr>
+<td><a href='https://hunter.io/'>Hunter.io</a></td>
+<td>#OSINT</td>
+</tr>
+<tr>
+<td><a href='https://i3wm.org/docs/refcard.html'>i3 Reference</a></td>
+<td>#Linux #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.youtube.com/watch?v=Og5xfph7Gt0'>Improve AD Security Quickly</a></td>
+<td>#AD</td>
+</tr>
+<tr>
+<td><a href='https://samsclass.info'>Introduction to Exploit Development</a></td>
+<td>#ExploitDev #Reference</td>
+</tr>
+<tr>
+<td><a href='https://262.ecma-international.org'>JavaScript Language Specification</a></td>
+<td>#JS #Reference</td>
+</tr>
+<tr>
+<td><a href="https://ldapwiki.com/wiki/LDAP">LDAP Wiki</a></td>
+<td>#Reference #AD</td>
+</tr>
+<tr>
+<td><a href='https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/'>Linux Privilege Escalation</a></td>
+<td>#Linux #Privilege #GeneralPentest #LinuxCLI</td>
+</tr>
+<tr>
+<td><a href='https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/'>Linux Syscall table for x86/x64</a></td>
+<td>#Shellcode #Linux #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.offensive-security.com/offsec/macro-weaponization/'>Macro weaponization</a></td>
+<td>#Windows #Macro #ExploitDev</td>
+</tr>
+<tr>
+<td><a href='https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html'>NTLM Relay</a></td>
+<td>#Windows #NTLM #AD</td>
+</tr>
+<tr>
+<td><a href='https://www.trustedsec.com/blog/a-comprehensive-guide-on-relaying-anno-2022/'>NTLM Relay</a></td>
+<td>#windows #NTLM #AD</td>
+</tr>
+<tr>
+<td><a href='https://0xffsec.com/handbook/'>Offsec Handbook</a></td>
+<td>#Reference #GeneralPentest</td>
+</tr>
+<tr>
+<td><a href='onyphe.io'>Onyphe</a></td>
+<td>#OSINT</td>
+</tr>
+<tr>
+<td><a href='https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html'>OSCP Preparation Guide, TJNull&#39;s</a></td>
+<td>#OSCP #CertStudy</td>
+</tr>
+<tr>
+<td><a href='https://therealunicornsecurity.github.io/OSCP/'>OSCP tips and tricks, therealunicornsecurity</a></td>
+<td>#OSCP #CertStudy</td>
+</tr>
+<tr>
+<td><a href='https://inteltechniques.com/tools/'>OSINT Online Search by IntelTechniques</a></td>
+<td>#OSINT</td>
+</tr>
+<tr>
+<td><a href="https://cheatsheetseries.owasp.org/">OWASP Cheatsheets</a></td>
+<td>#Www #Reference</td>
+</tr>
+<tr>
+<td><a href='https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22'>Pass-the-Challenge</a></td>
+<td>#NTLM #Kerberos #Windows #AD</td>
+</tr>
+<tr>
+<td><a href='https://pinvoke.net/'>P/Invoke</a></td>
+<td>#ExploitDev #Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://persistence-info.github.io/'>Persistence Info</a></td>
+<td>#RedTeam #Persistence #Windows</td>
+</tr>
+<tr>
+<td><a href='https://pentera.io/blog/135-is-the-new-145/'>PsExec w/o SMB</a></td>
+<td>#Tool #Windows #Python</td>
+</tr>
+<tr>
+<td><a href='https://docs.python.org/3/reference/index.html'>Python Reference</a></td>
+<td>#Python #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.hackingarticles.in/'>Raj Chandel&#39;s Blog</a></td>
+<td>#Reference #GeneralPentest #RedTeam #ExploitDev #www</td>
+</tr>
+<tr>
+<td><a href='https://dmcxblue.gitbook.io/red-team-notes-2-0/'>Red Team Notes, DCMXBlue</a></td>
+<td>#RedTeam #GeneralPentest #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.ired.team'>Red Teaming Experiments</a></td>
+<td>#RedTeam #GeneralPentest #Reference</td>
+</tr>
+<tr>
+<td><a href='https://cube0x0.github.io/Relaying-YubiKeys/'>Relaying YubiKeys</a></td>
+<td>#Reference #PIV</td>
+</tr>
+<tr>
+<td><a href='https://blog.xpnsec.com/weird-ways-to-execute-dotnet/'>Run Unmanaged Code</a></td>
+<td>#Windows #ExploitDev #Reference</td>
+</tr>
+<tr>
+<td><a href='http://shell-storm.org/shellcode/'>Shellstorm Shellcode database</a></td>
+<td>#ExploitDev #Shellcode #Linux #Windows</td>
+</tr>
+<tr>
+<td><a href='https://shodan.readthedocs.io/en/latest/tutorial.html'>Shodan API</a></td>
+<td>#Tool #OSINT #Reference</td>
+</tr>
+<tr>
+<td><a href='https://jasonturley.xyz/how-to-stabilize-a-reverse-shell/'>Stabilize reverse shell</a></td>
+<td>#GeneralPentest</td>
+</tr>
+<tr>
+<td><a href='https://www.gosecure.net/blog/2022/06/29/did-you-know-your-browser-autofill-credentials-could-be-stolen-via-cross-site-scripting-xss/'>Steal Browser Autofill Credentials</a></td>
+<td>#Password #www #XSS</td>
+</tr>
+<tr>
+<td><a href='https://z4ksec.github.io/posts/masky-release-v0.0.3/'>Steal Domain Creds via ADCS</a></td>
+<td>#AD #ADCS #Tool #Python</td>
+</tr>
+<tr>
+<td><a href='https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#'>OSCP machines, TJNull&#39;s</a></td>
+<td>#OSCP #CertStudy #Reference</td>
+</tr>
+<tr>
+<td><a href='https://wiki.bi0s.in/'>Team bi0s</a></td>
+<td>#Reference #RedTeam</td>
+</tr>
+<tr>
+<td><a href='https://www.fprintf.net/vimCheatSheet.html'>vim</a></td>
+<td>#TextEditor #LinuxCLI #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.hackers-arise.com/wireless-hacks'>Hackers-Arise: Wifi</a></td>
+<td>#Wifi #Reference</td>
+</tr>
+<tr>
+<td><a href='wigle.net'>Wigle</a></td>
+<td>#Tool #Wifi</td>
+</tr>
+<tr>
+<td><a href='https://jsecurity101.medium.com/wmi-internals-part-1-41bb97e7f5eb'>WMI Internals Part 1</a></td>
+<td>#Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a'>WMI Internals Part 2</a></td>
+<td>#Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://posts.specterops.io/wmi-internals-part-3-38e5dad016be'>WMI Internals Part 3</a></td>
+<td>#Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.trustedsec.com/blog/wmi-providers-for-script-kiddies/'>WMI Providers for Script Kiddies</a></td>
+<td>#Windows #ExploitDev</td>
+</tr>
+<tr>
+<td><a href='https://docs.microsoft.com/en-us/powershell/module/Microsoft.PowerShell.Core/About/about_FileSystem_Provider?view=powershell-7.2'>Windows: about_FileSystem provider</a></td>
+<td>#Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list'>Windows API</a></td>
+<td>#Windows #ExploitDev #Reference</td>
+</tr>
+<tr>
+<td><a href='https://emptydc.com/2022/06/08/windows-credential-dumping/'>Windows credential dumping</a></td>
+<td>#Reference #Windows #RedTeam #Password</td>
+</tr>
+<tr>
+<td><a href='https://www.blackhillsinfosec.com/windows-event-logs-for-red-teams/'>Windows Event Logs for Red Teams</a></td>
+<td>#Windows #Reference #PurpleTeam #RedTeam</td>
+</tr>
+<tr>
+<td><a href='https://jasonturley.xyz/blog/windows-exploit-development/'>Windows Exploit Development</a></td>
+<td>#ExploitDev #Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/net-commands-on-operating-systems'>Windows net.exe commands</a></td>
+<td>#Windows #Reference</td>
+</tr>
+<tr>
+<td><a href='https://docs.microsoft.com/en-us/windows/win32/secauthz/privilege-constants'>WinNT.h Privilege Constants</a></td>
+<td>#ExploitDev #Windows #Privilege</td>
+</tr>
+<tr>
+<td><a href='https://digwp.com/2012/05/complete-list-wordpress-files/'>Wordpress filestructure</a></td>
+<td>#www #CMS #Reference</td>
+</tr>
+<tr>
+<td><a href='https://ericzimmerman.github.io/#!index.md'>Zimmerman&#39;s Tools</a></td>
+<td>#Windows #Tool</td>
+</tr>
+<tr>
+<td><a href='https://zorin.com/os/'>Zorin OS</a></td>
+<td>#MiscOS</td>
+</tr>
+</tbody>
+</table>
+<h1 id="github-repositories">Github Repositories</h1>
+<table>
+<thead>
+<tr>
+<th>Repository Owner</th>
+<th>Repository Name</th>
+<th>Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>philsmd</td>
+<td>7z2hashcat</td>
+<td>Convert 7z to hashcat format #Tool #Password #Password/Cracking</td>
+</tr>
+<tr>
+<td>hmaverickadams</td>
+<td>Windows-Wifi-Extractor</td>
+<td>Tweeted by TCMSecurity <a href='https://t.co/QUDJitPEOn'>here</a> #Wifi</td>
+</tr>
+<tr>
+<td>tmr232</td>
+<td>sark</td>
+<td>IDA python plugin recommended by @Steph3nSims on Twitter (19 Aug 2022) #Tool #ExploitDev</td>
+</tr>
+<tr>
+<td>dotnet</td>
+<td>runtime</td>
+<td>Official repository for .NET, referenced in tweet from @KirillOsenkov (30 Jul 2022) about using env variables to pre-load a DLL when .NET application launches #Windows #ExploitDev</td>
+</tr>
+<tr>
+<td>overfl0</td>
+<td>IDAPython-pycharm-setup</td>
+<td>IDA python plugin recommended by @Steph3nSims on Twitter (19 Aug 2022) #Tool #ExploitDev</td>
+</tr>
+<tr>
+<td>CheckPointSW</td>
+<td>Karta</td>
+<td>IDA python plugin recommended by @Steph3nSims on Twitter (19 Aug 2022) #Tool #ExploitDev</td>
+</tr>
+<tr>
+<td>eset</td>
+<td>ipyida</td>
+<td>IDA python plugin recommended by @Steph3nSims on Twitter (19 Aug 2022) #Tool #ExploitDev</td>
+</tr>
+<tr>
+<td>ioncodes</td>
+<td>idacode</td>
+<td>IDA python plugin recommended by @Steph3nSims on Twitter (19 Aug 2022) #Tool #ExploitDev</td>
+</tr>
+<tr>
+<td>lkarlslund</td>
+<td>ldapnomnom</td>
+<td>Tool to anonymously bruteforce AD using LDAP. @lkarlslund (18 Sep 2022) #AD #Tool #Windows</td>
+</tr>
+<tr>
+<td>yarrick</td>
+<td>iodine</td>
+<td>DNS tunnelling project. Used on TryHackMe in dataxexfilt room #Tool</td>
+</tr>
+<tr>
+<td>ihebski</td>
+<td>DefaultCreds-cheat-sheet</td>
+<td>Tweeted: @ptracesecurity 18 Sep 2022 #Password/Default #Tool</td>
+</tr>
+<tr>
+<td>mttaggart</td>
+<td>Make-lnk.ps1</td>
+<td>Starter script to build malicious .lnk files for .iso payloads, shared by @mttaggart (4 Sep 2022) #Tool #Windows #ExploitDev</td>
+</tr>
+<tr>
+<td>Z4nzu</td>
+<td>hackingtool</td>
+<td>All-in-One Hacking Tool. Not sure where I came across this one #Tool #GeneralPentest</td>
+</tr>
+<tr>
+<td>The-Viper-One</td>
+<td>ActiveDirectoryAttackTool</td>
+<td>Not sure where I came across this one #Tool #AD #Windows #Reference #OSCP</td>
+</tr>
+<tr>
+<td>ConsciousHacker</td>
+<td>WFH</td>
+<td>Heard about this one at DEFCON30 I believe during Wietze&#39;s talk about a novel DLL hijack attack via environment variables #Tool #ExploitDev</td>
+</tr>
+<tr>
+<td>rsmudge</td>
+<td>Malleable-C2-Profiles</td>
+<td>For CobaltStrike; starred during RT event #C2</td>
+</tr>
+<tr>
+<td>Cobalt-Strike</td>
+<td>Malleable-C2-Profiles</td>
+<td>For CobaltStrike; starred during RT event #C2</td>
+</tr>
+<tr>
+<td>bluscreenofjeff</td>
+<td>Malleable-C2-Randomizer</td>
+<td>For CobaltStrike; starred during RT event (favorite of C. M., GSE extraordinaire) #C2</td>
+</tr>
+<tr>
+<td>PwnDexter</td>
+<td>SharpEDRChecker</td>
+<td>Discovered during malware reversing class, recommended by T. E. of US Army 1st IO #Windows #ExploitDev #AMSI</td>
+</tr>
+<tr>
+<td>PwnDexter</td>
+<td>Invoke-EDRChecker</td>
+<td>Discovered during malware reversing class, recommended by T. E. of US Army 1st IO #Windows #ExploitDev #AMSI</td>
+</tr>
+<tr>
+<td>krabelize</td>
+<td>icmpdoor</td>
+<td>ICMP tunnelling project. Used on TryHackMe in dataxexfilt room #Tool</td>
+</tr>
+<tr>
+<td>vysecurity</td>
+<td>LinkedInt</td>
+<td>LinkedIn scraper; Introduced in SEC560 (2022)  #Tool #OSINT</td>
+</tr>
+<tr>
+<td>clr2of8</td>
+<td>GatherContacts</td>
+<td>BurpSuite extension for LinkedIn scraping; Introduced in SEC560 (2022) #Tool #OSINT</td>
+</tr>
+<tr>
+<td>0xJs</td>
+<td>RedTeaming_CheatSheet</td>
+<td>#GeneralPentest #RedTeam #Reference</td>
+</tr>
+<tr>
+<td>jthuraisamy</td>
+<td>SysWhispers</td>
+<td>AD/EDR Evasion via system calls  #ExploitDev #Tool #Windows</td>
+</tr>
+<tr>
+<td>skelsec</td>
+<td>minikerberos</td>
+<td>Kerberos manipulation library in Python #RedTeam #Tool #Kerberos</td>
+</tr>
+<tr>
+<td>gtworek</td>
+<td>Priv2Admin</td>
+<td>Windows Privilege Escalation via Privilege Rights #Windows #ExploitDev #Privilege #PrivEsc</td>
+</tr>
+<tr>
+<td>dafthack</td>
+<td>DomainPasswordSpray</td>
+<td>Domain password spraying tool mentioned in SEC560 (2022), day 2 #Password #AD #RedTeam</td>
+</tr>
+<tr>
+<td>optiv</td>
+<td>ScareCrow</td>
+<td>Exe Obfuscation / encryption #ExploitDev #Windows</td>
+</tr>
+<tr>
+<td>infobyte</td>
+<td>CVE-2023-21036</td>
+<td>Tool to find PNG files affected by Acropalypse #OSINT</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://registry.dcm.mil/harbor/projects">https://registry.dcm.mil/harbor/projects</a>
+A MIL repository of docker images, etc. Seems actually to be a mirror of several public repositories.</p>
+</html>
