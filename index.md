@@ -57,14 +57,17 @@
 |<a href='https://blog.xpnsec.com/weird-ways-to-execute-dotnet/'>Run Unmanaged Code</a> | #Windows #ExploitDev #Reference |
 |<a href='http://shell-storm.org/shellcode/'>Shellstorm Shellcode database</a> | #ExploitDev #Shellcode #Linux #Windows |
 |<a href='https://shodan.readthedocs.io/en/latest/tutorial.html'>Shodan API</a> | #Tool #OSINT #Reference |
+|<a href='https://www.marcuscom.com/cgi-bin/snmptransc.pl'>SNMP Translator</a> | #Reference |
 |<a href='https://jasonturley.xyz/how-to-stabilize-a-reverse-shell/'>Stabilize reverse shell</a> | #GeneralPentest |
 |<a href='https://www.gosecure.net/blog/2022/06/29/did-you-know-your-browser-autofill-credentials-could-be-stolen-via-cross-site-scripting-xss/'>Steal Browser Autofill Credentials</a> | #Password #www #XSS |
 |<a href='https://z4ksec.github.io/posts/masky-release-v0.0.3/'>Steal Domain Creds via ADCS</a>| #AD #ADCS #Tool #Python |
 |<a href='https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#'>OSCP machines, TJNull's</a> | #OSCP #CertStudy #Reference |
 |<a href='https://wiki.bi0s.in/'>Team bi0s</a>| #Reference #RedTeam |
+|<a href='https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-rights-assignment'>User Rights Assignment</a> | #Reference #Windows |
+|<a href='https://4sysops.com/archives/user-rights-assignment-in-windows-server-2016/'>User Rights Assignment (2) </a> | #Reference #Windows|
 |<a href='https://www.fprintf.net/vimCheatSheet.html'>vim</a>| #TextEditor #LinuxCLI #Reference |
 |<a href='https://www.hackers-arise.com/wireless-hacks'>Hackers-Arise: Wifi</a>| #Wifi #Reference |
-|<a href='wigle.net'>Wigle</a> | #Tool #Wifi |
+|<a href='https://wigle.net'>Wigle</a> | #Tool #Wifi |
 |<a href='https://jsecurity101.medium.com/wmi-internals-part-1-41bb97e7f5eb'>WMI Internals Part 1</a> | #Windows #Reference |
 |<a href='https://jsecurity101.medium.com/wmi-internals-part-2-522f3e97709a'>WMI Internals Part 2</a> | #Windows #Reference |
 |<a href='https://posts.specterops.io/wmi-internals-part-3-38e5dad016be'>WMI Internals Part 3</a> | #Windows #Reference |
@@ -76,6 +79,7 @@
 |<a href='https://jasonturley.xyz/blog/windows-exploit-development/'>Windows Exploit Development</a> | #ExploitDev #Windows #Reference |
 |<a href='https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/net-commands-on-operating-systems'>Windows net.exe commands</a> | #Windows #Reference |
 |<a href='https://docs.microsoft.com/en-us/windows/win32/secauthz/privilege-constants'>WinNT.h Privilege Constants</a> | #ExploitDev #Windows #Privilege |
+|<a href='https://msrc.microsoft.com/update-guide/vulnerability'>Windows Security Update Guide</a> | #Windows #Reference |
 |<a href='https://digwp.com/2012/05/complete-list-wordpress-files/'>Wordpress filestructure</a> | #www #CMS #Reference |
 |<a href='https://ericzimmerman.github.io/#!index.md'>Zimmerman's Tools</a> | #Windows #Tool |
 |<a href='https://zorin.com/os/'>Zorin OS</a> | #MiscOS |
