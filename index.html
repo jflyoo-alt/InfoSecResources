@@ -1,4 +1,12 @@
+<html>
+<!-- Markdown to HTML conversion courtesy of https://markdowntohtml.com/ -->
 <h1 id="bookmarks">Bookmarks</h1>
+<style>
+tbody
+	{
+	 font: bold 18px/30px Georgia, sans-serif;
+}
+</style>
 <table>
 <thead>
 <tr>
@@ -6,7 +14,8 @@
 <th>Tags</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td><a href="https://rootsecdev.medium.com/abusing-sebackupprivilege-cd5d1a88f992">Abusing SeBackupPrivilege</a></td>
 <td>#AD #Privilege</td>
 </tr>
@@ -219,6 +228,10 @@
 <td>#Reference #PIV</td>
 </tr>
 <tr>
+<td><a href='https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html'>Resource Based Constrained Delegation Attack</a></td>
+<td>#AD #Windows</td>
+</tr>
+<tr>
 <td><a href='https://blog.xpnsec.com/weird-ways-to-execute-dotnet/'>Run Unmanaged Code</a></td>
 <td>#Windows #ExploitDev #Reference</td>
 </tr>
@@ -229,6 +242,10 @@
 <tr>
 <td><a href='https://shodan.readthedocs.io/en/latest/tutorial.html'>Shodan API</a></td>
 <td>#Tool #OSINT #Reference</td>
+</tr>
+<tr>
+<td><a href='https://www.marcuscom.com/cgi-bin/snmptransc.pl'>SNMP Translator</a></td>
+<td>#Reference</td>
 </tr>
 <tr>
 <td><a href='https://jasonturley.xyz/how-to-stabilize-a-reverse-shell/'>Stabilize reverse shell</a></td>
@@ -251,6 +268,14 @@
 <td>#Reference #RedTeam</td>
 </tr>
 <tr>
+<td><a href='https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-rights-assignment'>User Rights Assignment</a></td>
+<td>#Reference #Windows</td>
+</tr>
+<tr>
+<td><a href='https://4sysops.com/archives/user-rights-assignment-in-windows-server-2016/'>User Rights Assignment (2) </a></td>
+<td>#Reference #Windows</td>
+</tr>
+<tr>
 <td><a href='https://www.fprintf.net/vimCheatSheet.html'>vim</a></td>
 <td>#TextEditor #LinuxCLI #Reference</td>
 </tr>
@@ -259,7 +284,7 @@
 <td>#Wifi #Reference</td>
 </tr>
 <tr>
-<td><a href='wigle.net'>Wigle</a></td>
+<td><a href='https://wigle.net'>Wigle</a></td>
 <td>#Tool #Wifi</td>
 </tr>
 <tr>
@@ -307,6 +332,10 @@
 <td>#ExploitDev #Windows #Privilege</td>
 </tr>
 <tr>
+<td><a href='https://msrc.microsoft.com/update-guide/vulnerability'>Windows Security Update Guide</a></td>
+<td>#Windows #Reference</td>
+</tr>
+<tr>
 <td><a href='https://digwp.com/2012/05/complete-list-wordpress-files/'>Wordpress filestructure</a></td>
 <td>#www #CMS #Reference</td>
 </tr>
@@ -318,7 +347,8 @@
 <td><a href='https://zorin.com/os/'>Zorin OS</a></td>
 <td>#MiscOS</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 <h1 id="github-repositories">Github Repositories</h1>
 <table>
 <thead>
@@ -328,7 +358,8 @@
 <th>Comments</th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+<tr>
 <td>philsmd</td>
 <td>7z2hashcat</td>
 <td>Convert 7z to hashcat format #Tool #Password #Password/Cracking</td>
@@ -478,7 +509,54 @@
 <td>CVE-2023-21036</td>
 <td>Tool to find PNG files affected by Acropalypse #OSINT</td>
 </tr>
-</tbody></table>
+<tr>
+<td>pingcastle</td>
+<td>vletoux</td>
+<td>Tool to assess Active Directory <a href="https://academy.hackthebox.com/module/74/section/1395">https://academy.hackthebox.com/module/74/section/1395</a> #windows #AD #GeneralPentest</td>
+</tr>
+<tr>
+<td>SpoolSample</td>
+<td>leechristensen</td>
+<td>See GitHub <a href="https://academy.hackthebox.com/module/74/section/1395">https://academy.hackthebox.com/module/74/section/1395</a> #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>PKINITtools</td>
+<td>dirkanm</td>
+<td>Tools to work with PKINIT and relay to ADCS <a href="https://academy.hackthebox.com/module/143/section/1484">https://academy.hackthebox.com/module/143/section/1484</a> #ADCS #AD #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>PetitPotam</td>
+<td>topotam</td>
+<td>ADCS Attack <a href="https://academy.hackthebox.com/module/143/section/1484">https://academy.hackthebox.com/module/143/section/1484</a> #ADCS #AD #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>certi</td>
+<td>zer1t0</td>
+<td>ADCS Attack, find ADCS CA server <a href="https://academy.hackthebox.com/module/143/section/1484">https://academy.hackthebox.com/module/143/section/1484</a> #ADCS #AD #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>noPac</td>
+<td>Ridter</td>
+<td>NoPAC / SamAccountName Spoofing attack <a href="https://academy.hackthebox.com/module/143/section/1484">https://academy.hackthebox.com/module/143/section/1484</a></td>
+<td>#AD #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>CVE-2021-1675</td>
+<td>cube0x0</td>
+<td>PrintNightmare exploit #AD #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>Exchange-AD-Privesc</td>
+<td>gdedrouas</td>
+<td>Attack AD Exchange Servers #AD #Windows #PrivEsc</td>
+</tr>
+<tr>
+<td>adidnsdump</td>
+<td>dirkjanm</td>
+<td>Enumerate DNS records #GeneralPentest</td>
+</tr>
+</tbody>
+</table>
 <p><a href="https://registry.dcm.mil/harbor/projects">https://registry.dcm.mil/harbor/projects</a>
 A MIL repository of docker images, etc. Seems actually to be a mirror of several public repositories.</p>
-
+</html>

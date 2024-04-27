@@ -54,6 +54,7 @@
 |<a href='https://dmcxblue.gitbook.io/red-team-notes-2-0/'>Red Team Notes, DCMXBlue</a>| #RedTeam #GeneralPentest #Reference  |
 |<a href='https://www.ired.team'>Red Teaming Experiments</a> | #RedTeam #GeneralPentest #Reference |
 |<a href='https://cube0x0.github.io/Relaying-YubiKeys/'>Relaying YubiKeys</a>| #Reference #PIV |
+|<a href='https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html'>Resource Based Constrained Delegation Attack</a>| #AD #Windows |
 |<a href='https://blog.xpnsec.com/weird-ways-to-execute-dotnet/'>Run Unmanaged Code</a> | #Windows #ExploitDev #Reference |
 |<a href='http://shell-storm.org/shellcode/'>Shellstorm Shellcode database</a> | #ExploitDev #Shellcode #Linux #Windows |
 |<a href='https://shodan.readthedocs.io/en/latest/tutorial.html'>Shodan API</a> | #Tool #OSINT #Reference |
@@ -115,8 +116,17 @@
 |skelsec|minikerberos| Kerberos manipulation library in Python #RedTeam #Tool #Kerberos |
 |gtworek|Priv2Admin| Windows Privilege Escalation via Privilege Rights #Windows #ExploitDev #Privilege #PrivEsc |
 |dafthack| DomainPasswordSpray | Domain password spraying tool mentioned in SEC560 (2022), day 2 #Password #AD #RedTeam |
-| optiv | ScareCrow | Exe Obfuscation / encryption #ExploitDev #Windows |
-| infobyte | CVE-2023-21036 | Tool to find PNG files affected by Acropalypse #OSINT |
+|optiv|ScareCrow| Exe Obfuscation / encryption #ExploitDev #Windows |
+|infobyte|CVE-2023-21036| Tool to find PNG files affected by Acropalypse #OSINT |
+|pingcastle|vletoux| Tool to assess Active Directory https://academy.hackthebox.com/module/74/section/1395 #windows #AD #GeneralPentest |
+|SpoolSample|leechristensen| See GitHub https://academy.hackthebox.com/module/74/section/1395 #Windows #PrivEsc |
+|PKINITtools|dirkanm| Tools to work with PKINIT and relay to ADCS https://academy.hackthebox.com/module/143/section/1484 #ADCS #AD #Windows #PrivEsc |
+|PetitPotam|topotam| ADCS Attack https://academy.hackthebox.com/module/143/section/1484 #ADCS #AD #Windows #PrivEsc |
+|certi|zer1t0| ADCS Attack, find ADCS CA server https://academy.hackthebox.com/module/143/section/1484 #ADCS #AD #Windows #PrivEsc |
+|noPac|Ridter| NoPAC / SamAccountName Spoofing attack https://academy.hackthebox.com/module/143/section/1484 |  #AD #Windows #PrivEsc |
+|CVE-2021-1675|cube0x0| PrintNightmare exploit #AD #Windows #PrivEsc
+|Exchange-AD-Privesc|gdedrouas| Attack AD Exchange Servers #AD #Windows #PrivEsc |
+|adidnsdump|dirkjanm| Enumerate DNS records #GeneralPentest | 
 
 https://registry.dcm.mil/harbor/projects
 A MIL repository of docker images, etc. Seems actually to be a mirror of several public repositories.
